@@ -1,0 +1,32 @@
+#box-campaign-products > div > article > a > div.image-wrapper > img
+//*[@id="box-campaign-products"]/div/article/a/div[1]/img
+
+#box-popular-products > div > article:nth-child(1) > a > div.image-wrapper > img
+//*[@id="box-popular-products"]/div/article[1]/a/div[1]/img
+
+#box-popular-products > div > article:nth-child(2) > a > div.image-wrapper > img
+//*[@id="box-popular-products"]/div/article[2]/a/div[1]/img
+
+#box-popular-products > div > article:nth-child(3) > a > div.image-wrapper > img
+//*[@id="box-popular-products"]/div/article[3]/a/div[1]/img
+
+#box-popular-products > div > article:nth-child(4) > a > div.image-wrapper > img
+//*[@id="box-popular-products"]/div/article[4]/a/div[1]/img
+
+#box-popular-products > div > article:nth-child(5) > a > div.image-wrapper > img
+//*[@id="box-popular-products"]/div/article[5]/a/div[1]/img
+
+#box-latest-products > div > article:nth-child(1) > a > div.image-wrapper > img
+//*[@id="box-latest-products"]/div/article[1]/a/div[1]/img
+
+#box-latest-products > div > article:nth-child(2) > a > div.image-wrapper > img
+//*[@id="box-latest-products"]/div/article[2]/a/div[1]/img
+
+#box-latest-products > div > article:nth-child(3) > a > div.image-wrapper > img
+//*[@id="box-latest-products"]/div/article[3]/a/div[1]/img
+
+#box-latest-products > div > article:nth-child(4) > a > div.image-wrapper > img
+//*[@id="box-latest-products"]/div/article[4]/a/div[1]/img
+
+#box-latest-products > div > article:nth-child(5) > a > div.image-wrapper > img
+//*[@id="box-latest-products"]/div/article[5]/a/div[1]/img
