@@ -1,0 +1,80 @@
+{
+  "name": "Verify all interface elements",
+  "projectId": "303ce9fc-d665-447b-87dd-bffd9d9d65c0",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[24.11.0-preview]",
+    "UiPath.Testing.Activities": "24.10.1",
+    "UiPath.UIAutomation.Activities": "[24.11.1-preview]",
+    "UiPath.WebAPI.Activities": "[1.21.0]",
+    "UiPath.WorkflowEvents.Activities": "3.0.0"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "24.10.4.0",
+  "projectVersion": "1.0.179935590",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "ef02f7d1-3c9b-482d-bbcd-093f6d6e465f",
+        "testCaseType": "TestCase",
+        "fileName": "Verify Password Field Presence.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "46ae4710-19c6-482a-bcba-bcc70755ebbc",
+        "testCaseType": "TestCase",
+        "fileName": "Verify Sauce Labs Logo Visibility.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "152c447f-e9f8-429c-b745-98a87f8256a1",
+        "testCaseType": "TestCase",
+        "fileName": "Verify Username Field Presence.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "fd5cb694-7f50-473e-ae30-0668a1c2969e",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Verify Login Button Presence.xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Portable"
+}

@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/ygcayta/defaulttenant/testmanager_/",
+  "defaultProject": {
+    "id": "7a2ce610-3943-0000-4fd6-0b47434f99d9",
+    "name": "Smoke",
+    "key": "TESTING"
+  }
+}
